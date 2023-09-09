@@ -1,0 +1,7 @@
+fastapi==0.67.0
+uvicorn==0.14.0
+Django==3.2.5
+fastapi-utils
+psycopg2
+fastapi-jwt-auth
+requests
